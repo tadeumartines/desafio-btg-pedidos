@@ -1,6 +1,6 @@
-# Desafio Técnico BTG FICC - Processamento de Pedidos
+# Desafio Técnico BTG - Processamento de Pedidos
 
-Este repositório contém a solução para o desafio técnico proposto pelo BTG Pactual FICC, que consiste em uma arquitetura de microserviços para processar pedidos de forma assíncrona e expor uma API REST para consulta dos dados.
+Este repositório contém a solução para o desafio técnico proposto pelo BTG Pactual, que consiste em uma arquitetura de microserviços para processar pedidos de forma assíncrona e expor uma API REST para consulta dos dados.
 
 ## Arquitetura da Solução
 
